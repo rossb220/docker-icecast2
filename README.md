@@ -1,1 +1,2 @@
-# docker-icecast2
+# docker-icecast
+icecast2 containerized
